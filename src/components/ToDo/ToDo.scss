@@ -1,0 +1,19 @@
+.todo {
+  h2 {
+    text-align: center;
+  }
+
+  ul {
+    li {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      button {
+        background-color: transparent;
+        border: none;
+        font-size: 30px;
+      }
+    }
+  }
+}

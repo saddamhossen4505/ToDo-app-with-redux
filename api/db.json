@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "name": "Go to market",
+      "id": 1
+    },
+    {
+      "name": "Go home",
+      "id": 2
+    }
+  ]
+}
